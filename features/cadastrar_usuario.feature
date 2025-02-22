@@ -1,6 +1,6 @@
 # language: pt
 
-Funcionalidade: VC-66 - Cadastrar Usuários
+Funcionalidade: Cadastrar Usuários
   Como pessoa envolvida nas ações de voluntariado
   Quero realizar meu cadastro
   Para obter acesso ao sistema
